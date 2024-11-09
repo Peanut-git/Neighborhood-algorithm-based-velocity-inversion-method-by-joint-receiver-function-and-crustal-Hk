@@ -24,6 +24,7 @@ FC=gfortran
 MFC=mpifort
 
 # make sure you are in the correct folder
+mkdir bin lib
 make all
 
 # all the program will be stored in the bin folder, then add it into the PATH

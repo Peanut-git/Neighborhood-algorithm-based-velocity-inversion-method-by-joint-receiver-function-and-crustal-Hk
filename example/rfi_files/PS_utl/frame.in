@@ -1,0 +1,25 @@
+#
+#	Frame parameters
+#
+4.0			:x-origin (cm)
+5.0			:y-origin (cm)
+21			:x-axis length (cm)
+10			:y-axis length (cm)
+3.0			:distance between x tick marks (cm)
+1.			:distance between y tick marks (cm)
+1			:Number of decimal places in axis values (-1=int)
+2			:Number of decimal places in axis values (-1=int)
+5			:Number of x sub-divisions between ticks
+2			:Number of y sub-divisions between ticks
+-999			:x-axis starting value (-999 for automatic)
+-999			:y-axis starting value (-999 for automatic)
+-999   			:x-axis step value (-999 for automatic)
+-999			:y-axis step value (-999 for automatic)
+0.4			:Size of axis labels (cm)
+0.6			:Size of title (cm)
+1   			:Pen for frame and box
+1   			:Pen for tick marks and symbols
+1   			:Pen for text
+Time (s)                :x-axis label
+Amplitude               :y-axis label
+Observed and predicted receiver functions         :title

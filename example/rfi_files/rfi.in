@@ -1,0 +1,12 @@
+#
+# Input file for receiver function inversion specific information
+#
+rfi_param                              /* input model */
+rfi_models                             /* output models */
+1                                       /* nwave */
+rec_func                               /* input RF */
+34.8497                                   /* incident angle */
+1.0                                     /* weight */
+-1 30.0                               /* time window */
+1                                       /* iwrite_models */
+120260                                  /* your birthday */

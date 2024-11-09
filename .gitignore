@@ -1,0 +1,22 @@
+# 缓存文件
+**/__pycache__
+**/.ipynb_checkpoints
+
+# 编译后的文件
+**/*.o
+
+# 数据文件
+data/*.pdf
+data/*.txt
+data/*.nad
+data/*.sum
+data/*.ipynb
+data/rfi_plot/*.ps
+data/rfi_files/*.ps
+data/rfi_files/NA_MDL/rfi_mo*
+data/rfi_files/NA_MDL/density*
+data/rfi_files/NA_MDL/model_ref-*
+data/rfi_files/NA_ORF/*
+data/rfi_files/NA_SRF/*
+data/rfi_files/NA_SUM/*
+data/rfi_files/rfi_plot/*.ps
